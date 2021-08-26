@@ -1,0 +1,1 @@
+Attempt at creating and solving my own merge conflict, if this message goes through attempt was successful.
